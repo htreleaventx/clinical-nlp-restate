@@ -1,0 +1,101 @@
+preferred_term,category,aliases
+Abdominal pain,Gastrointestinal,stomach pain|belly pain|abdominal discomfort
+Abdominal bloating,Gastrointestinal,bloating|swollen stomach|abdominal fullness
+Acid reflux,Gastrointestinal,heartburn|indigestion|acid coming up
+Appetite loss,General,loss of appetite|poor appetite|not hungry
+Back pain,Musculoskeletal,backache|pain in back|lower back pain
+Balance problems,Neurological,unsteady|loss of balance|poor balance
+Black stool,Gastrointestinal,tarry stool|dark stool|melena
+Blurred vision,Eye,blurry vision|vision is blurry|unclear vision
+Body aches,General,muscle aches|aching all over|general aches
+Breast pain,Breast,mastalgia|painful breast|breast tenderness
+Bruising easily,Skin/Hematologic,easy bruising|unexplained bruises|frequent bruising
+Burning urination,Genitourinary,painful urination|burns when urinating|dysuria
+Chest pain,Cardiovascular,chest discomfort|pain in chest|chest pressure
+Chills,General,shivering|feeling cold|rigors
+Confusion,Neurological,disoriented|mental confusion|not thinking clearly
+Constipation,Gastrointestinal,difficulty passing stool|hard stools|infrequent bowel movements
+Cough,Respiratory,coughing|persistent cough|dry cough
+Coughing up blood,Respiratory,blood in sputum|hemoptysis|bloody cough
+Decreased urination,Genitourinary,low urine output|urinating less|reduced urination
+Diarrhea,Gastrointestinal,loose stools|watery stool|frequent bowel movements
+Difficulty concentrating,Neurological,poor concentration|brain fog|trouble focusing
+Difficulty swallowing,Gastrointestinal,trouble swallowing|painful swallowing|dysphagia
+Dizziness,Neurological,lightheadedness|feeling faint|woozy
+Double vision,Eye,seeing double|diplopia|two images
+Dry eyes,Eye,eye dryness|gritty eyes|burning dry eyes
+Dry mouth,Oral,mouth dryness|cotton mouth|xerostomia
+Ear discharge,Ear,fluid from ear|draining ear|ear drainage
+Ear pain,Ear,earache|pain in ear|otalgia
+Excessive sweating,General,sweating a lot|heavy sweating|diaphoresis
+Eye pain,Eye,painful eye|ache behind eye|ocular pain
+Eye redness,Eye,red eye|bloodshot eyes|eye irritation
+Facial swelling,General,swollen face|puffy face|face swelling
+Fatigue,General,tiredness|low energy|exhaustion
+Fever,General,high temperature|febrile|feeling feverish
+Flank pain,Genitourinary,side pain|kidney pain|pain in side
+Frequent urination,Genitourinary,urinating often|peeing frequently|urinary frequency
+Gas,Gastrointestinal,flatulence|passing gas|intestinal gas
+Hair loss,Skin,hair thinning|losing hair|alopecia
+Hand tremor,Neurological,shaky hands|hand shaking|trembling hands
+Headache,Neurological,head pain|head hurts|cephalalgia
+Hearing loss,Ear,reduced hearing|cannot hear well|hearing difficulty
+Heart palpitations,Cardiovascular,heart racing|heart pounding|fluttering heartbeat
+Hoarseness,Respiratory,raspy voice|voice change|hoarse voice
+Increased thirst,Endocrine,very thirsty|excessive thirst|polydipsia
+Irregular heartbeat,Cardiovascular,uneven heartbeat|abnormal rhythm|skipped beats
+Itching,Skin,itchy skin|pruritus|skin itching
+Joint pain,Musculoskeletal,aching joints|painful joints|arthralgia
+Joint stiffness,Musculoskeletal,stiff joints|reduced joint movement|morning stiffness
+Leg cramps,Musculoskeletal,muscle cramps in legs|charley horse|leg muscle spasm
+Leg swelling,Cardiovascular,swollen legs|ankle swelling|lower limb edema
+Loss of smell,Ear/Nose/Throat,cannot smell|reduced smell|anosmia
+Loss of taste,Oral,cannot taste|reduced taste|ageusia
+Low mood,Mental health,feeling down|depressed mood|sadness
+Lump or swelling,General,new lump|mass|localized swelling
+Memory problems,Neurological,forgetfulness|poor memory|memory loss
+Menstrual cramps,Reproductive,period pain|painful periods|dysmenorrhea
+Missed period,Reproductive,late period|absent period|amenorrhea
+Mood changes,Mental health,mood swings|emotional changes|irritability
+Mouth sores,Oral,oral ulcers|canker sores|sores in mouth
+Muscle pain,Musculoskeletal,myalgia|aching muscles|sore muscles
+Muscle weakness,Neuromuscular,weak muscles|loss of strength|muscular weakness
+Nasal congestion,Respiratory,stuffy nose|blocked nose|nasal blockage
+Nausea,Gastrointestinal,feeling sick|queasy|upset stomach
+Neck pain,Musculoskeletal,neck ache|painful neck|cervical pain
+Night sweats,General,sweating at night|waking up sweaty|nocturnal sweating
+Nipple discharge,Breast,fluid from nipple|breast discharge|nipple leakage
+Numbness,Neurological,loss of sensation|feeling numb|reduced feeling
+Painful intercourse,Reproductive,pain during sex|dyspareunia|pain with intercourse
+Pelvic pain,Reproductive,lower abdominal pain|pain in pelvis|pelvic discomfort
+Persistent thirst,Endocrine,always thirsty|constant thirst|excess thirst
+Postnasal drip,Respiratory,mucus in throat|drainage down throat|nasal drainage
+Rash,Skin,skin rash|red spots|skin eruption
+Rectal bleeding,Gastrointestinal,blood from rectum|blood in stool|bright red stool
+Reduced appetite,General,eating less|poor appetite|decreased appetite
+Runny nose,Respiratory,nasal discharge|dripping nose|rhinorrhea
+Seizure,Neurological,convulsion|fit|uncontrolled shaking
+Shortness of breath,Respiratory,difficulty breathing|breathlessness|can't catch breath
+Shoulder pain,Musculoskeletal,pain in shoulder|shoulder ache|painful shoulder
+Skin dryness,Skin,dry skin|flaky skin|rough skin
+Sleep difficulty,Sleep,insomnia|trouble sleeping|cannot sleep
+Sneezing,Respiratory,frequent sneezing|sneeze|nasal irritation
+Sore throat,Respiratory,throat pain|scratchy throat|painful throat
+Speech difficulty,Neurological,slurred speech|trouble speaking|speech problems
+Swollen lymph nodes,Immune,swollen glands|enlarged lymph nodes|tender glands
+Taste changes,Oral,metallic taste|altered taste|bad taste
+Tingling,Neurological,pins and needles|paresthesia|tingling sensation
+Tinnitus,Ear,ringing in ears|buzzing in ears|ear ringing
+Tooth pain,Oral,toothache|dental pain|painful tooth
+Urinary urgency,Genitourinary,urgent need to urinate|can't hold urine|sudden urge to pee
+Urinary incontinence,Genitourinary,urine leakage|loss of bladder control|wetting
+Vaginal bleeding,Reproductive,unexpected vaginal bleeding|spotting|bleeding between periods
+Vaginal discharge,Reproductive,abnormal discharge|vaginal fluid|genital discharge
+Vertigo,Neurological,room spinning|spinning sensation|feeling of movement
+Vomiting,Gastrointestinal,throwing up|being sick|emesis
+Weakness,General,feeling weak|lack of strength|general weakness
+Weight gain,General,gaining weight|increased body weight|unexpected weight gain
+Weight loss,General,losing weight|unintentional weight loss|unexpected weight loss
+Wheezing,Respiratory,whistling breath|noisy breathing|wheezy breathing
+Yellow skin or eyes,Gastrointestinal,jaundice|yellow eyes|yellowing skin
+Anxiety,Mental health,feeling anxious|nervousness|excessive worry
